@@ -1,0 +1,4 @@
+{
+    "proxyUrl": "http://localhost:7950",
+    "whalePem": "~/dharitrisdk/testwallets/alice.pem"
+}

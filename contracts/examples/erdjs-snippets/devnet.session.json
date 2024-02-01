@@ -1,0 +1,4 @@
+{
+    "proxyUrl": "https://devnet-gateway.dharitri.com",
+    "whalePem": "~/dharitrisdk/testwallets/alice.pem"
+}
